@@ -1,0 +1,22 @@
+# Default
+!.keep
+
+.vscode
+.idea
+
+*.un~
+*.bak
+*.log
+*.log.gz
+*.swp
+
+desktop.ini
+
+# python
+__pycache__/
+*.py[cod]
+*venv
+.env
+
+
+
