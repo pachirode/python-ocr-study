@@ -18,5 +18,9 @@ __pycache__/
 *venv
 .env
 
+# temp
+tmp
+
+
 
 
